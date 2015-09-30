@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋名號歸一圖
-#+DATE: 2015-09-23 09:39:24
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:12:49.541156
+#+PROPERTY: ID KR1e0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷下
 <pb:KR1e0016_WYG_002-1a>¶
 欽定四庫全書¶
 　春秋名號歸一圖卷下　五代　馮繼先　撰¶
@@ -578,4 +580,3 @@
 　¶
 　¶
 　春秋名號歸一圖卷下¶
-
